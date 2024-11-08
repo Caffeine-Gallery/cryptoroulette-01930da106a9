@@ -1,0 +1,3 @@
+service : {
+  getRandomCryptos: () -> (vec text);
+}

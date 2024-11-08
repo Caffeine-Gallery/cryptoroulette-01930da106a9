@@ -1,0 +1,24 @@
+.positive-change {
+    color: #28a745;
+}
+
+.negative-change {
+    color: #dc3545;
+}
+
+#timer {
+    font-size: 1rem;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
